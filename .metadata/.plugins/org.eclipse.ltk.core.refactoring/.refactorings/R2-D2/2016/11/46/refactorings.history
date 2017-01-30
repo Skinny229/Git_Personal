@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;&apos; to &apos;org.usfirst.frc.team1495.robot.commands.moveHeadRight.end()&apos;&#x0D;&#x0A;- Original project: &apos;R2-D2&apos;&#x0D;&#x0A;- Destination element: &apos;org.usfirst.frc.team1495.robot.commands.moveHeadRight.end()&apos;&#x0D;&#x0A;- Original element: &apos;org.usfirst.frc.team1495.robot.commands.moveHeadRight.end()&apos;" description="Copy method" destination="/src&lt;org.usfirst.frc.team1495.robot.commands{moveHeadRight.java[moveHeadRight~end" element1="/src&lt;org.usfirst.frc.team1495.robot.commands{moveHeadRight.java[moveHeadRight~end" flags="589830" id="org.eclipse.jdt.ui.copy" members="1" policy="org.eclipse.jdt.ui.copyMembers" stamp="1478869969393" version="1.0"/>
+</session>

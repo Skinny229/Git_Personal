@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.SpeedController"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.buttons.Button"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.RobotDrive.MotorType"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.AnalogInput"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team1495.robot.subsystems.UltraSonic"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team1495.robot.subsystems.DriveTrainSubsystem"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team1495.robot.commands.ItLives"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team1495.robot.subsystems.HeadSubsystem"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team1495.robot.commands.moveHeadRight"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team1495.robot.commands.moveHeadLeft"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.Timer"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.RobotDrive"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team1495.robot.RobotMap"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team1495.robot.subsystems.GattlingGunSubsystem"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.Joystick"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.buttons.JoystickButton"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team1495.robot.commands.SpinRight"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team1495.robot.commands.SpinLeft"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team1495.robot.commands.GoDown"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.vision.USBCamera"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.command.Subsystem"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.VictorSP"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team1495.robot.subsystems.SingleWheel"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team1495.robot.commands.SingleWheelCMD"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.command.Command"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team1495.robot.commands.SingleWheelCMDB"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.CameraServer"/>
+<fullyQualifiedTypeName name="edu.wpi.cscore.VideoSink"/>
+<fullyQualifiedTypeName name="edu.wpi.cscore.AxisCamera"/>
+<fullyQualifiedTypeName name="edu.wpi.cscore.VideoSource"/>
+<fullyQualifiedTypeName name="edu.wpi.cscore.UsbCamera"/>
+<fullyQualifiedTypeName name="edu.wpi.cscore.UsbCameraInfo"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team1495.robot.Robot"/>
+<fullyQualifiedTypeName name="edu.wpi.cscore.VideoMode.PixelFormat"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,43 @@
+package org.usfirst.frc.team1495.robot.commands;
+
+import org.usfirst.frc.team1495.robot.Robot;
+import org.usfirst.frc.team1495.robot.RobotMap;
+
+import edu.wpi.first.wpilibj.command.Command;
+
+public class moveHeadRight extends Command{
+
+	public moveHeadRight(){
+		requires(Robot.headsubsystem);
+		requires(Robot.limitswitch);
+	}
+	
+	protected void initialize() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	protected void execute() {
+		// TODO Auto-generated method stub
+		while(!(Robot.limitswitch.isSwitchOn()))
+		Robot.headsubsystem.moveRight(RobotMap.headGearRatio);
+		
+		Robot.headsubsystem.stop();
+	}
+	protected boolean isFinished() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	
+	protected void end() {
+		// TODO Auto-generated method stub
+		Robot.headsubsystem.stop();
+
+	}
+
+	protected void interrupted() {
+		
+	}
+
+}
